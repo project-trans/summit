@@ -108,7 +108,7 @@
 - U.S.A
   - California
   - New York
-- Spanish
+- Spain
 
 ## 存在的问题
 
